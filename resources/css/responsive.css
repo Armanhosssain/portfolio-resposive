@@ -1,0 +1,43 @@
+@media only screen and (max-width: 1150px){
+	/*=======header serction========*/
+	.row{
+		margin: 0 30px;
+	}
+	.hero-text-box{
+		width: 100%;
+		padding: 0 30px;
+	}
+	
+}
+@media only screen and (max-width: 1024px){
+		.main-nav{
+		display: none;
+	}
+	html{
+		font-size: 57.62%;
+	}
+	/*=======testimonial serction========*/
+	.client-photo{
+		width: 100%;
+		float: none;
+		text-align: center;
+	}
+	.client-review{
+		width: 100%;
+		float: none;
+		text-align: center;
+	}
+}
+@media screen and (max-width: 980px){
+	.span_1_of_4 {
+		width: 49.2%; 
+	}
+	.span_1_of_4:nth-child(3){
+		margin-left: 0;
+	}
+}
+@media screen and (max-width: 480px){
+	.span_1_of_4 {
+		width: 100%; 
+	}
+}

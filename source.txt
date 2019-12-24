@@ -1,0 +1,28 @@
+jquery google hosted cdn
+jqueryscript.net
+			<!-- google font -->
+	<link href="https://fonts.googleapis.com/css?family=Titillium+Web:300,400,600,700&display=swap" rel="stylesheet"> 
+			<!-- font awesome -->
+	<link rel="stylesheet" href="vendors/css/all.min.css">
+			<!-- normalize/grid css -->
+	<link rel="stylesheet" href="vendors/css/normalize.css">
+	<link rel="stylesheet" href="vendors/css/grid.css">
+	<link rel="stylesheet" href="vendors/css/animated-circle.css">
+			<!-- own css -->
+	<link rel="stylesheet" href="resources/css/style.css">
+	<link rel="stylesheet" href="resources/css/responsive.css">
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script src="vendors/js/all.min.js"></script>
+	<!-- internate explorer version control-->
+	<script src="vendors/js/html5shiv.min.js"></script>
+	<!-- internate explorer css3 word control-->
+	<script src="vendors/js/respond.min.js"></script>
+	<!-- internate explorer pseudo class control-->
+	<script src="vendors/js/selectivizr-min.js"></script>
+	<!--sticky navigation -->
+	<script src="vendors/js/jquery.waypoints.min.js"></script>
+	<!--animation progress bar -->
+	<script src="vendors/js/animated-cicle.js"></script>
+	<!--mixit up-->
+	<script src="vendors/js/mixitup.min.js"></script>
