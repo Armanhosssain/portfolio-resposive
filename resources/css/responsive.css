@@ -13,8 +13,14 @@
 	.main-nav{
 		display: none;
 	}
+	.mobile-menu span{
+	display: block;
+}
 	header{
 		height: 50vh;
+	}
+	h1{
+		font-size: 3rem;
 	}
 	html{
 		font-size: 57.62%;
@@ -80,6 +86,9 @@
 }
 }
 @media screen and (max-width: 400px){
+	h1{
+		font-size: 1.8rem;
+	}
 	h2{
 		font-size: 1.3rem;
 	}
@@ -93,5 +102,26 @@
 }
 	.footer-section ul li a{
 	font-size: 1.6rem;
+}
+}
+@media screen and (max-width: 280px){
+	h1{
+		font-size: 1.5rem;
+		font-weight: bold;
+	}
+	h2{
+		font-size: 1rem;
+		font-weight: bold;
+	}
+	.little-description{
+		font-size: 1.3rem;
+		line-height: 1.5rem;
+		padding: 0;
+	}
+	.portfolio-filter button{
+	margin: .4rem;
+}
+	.footer-section ul li a{
+	font-size: 1.3rem;
 }
 }

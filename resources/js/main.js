@@ -10,3 +10,10 @@ $(document).ready(function(){
 	// portfolio mixitup
 	var mixer = mixitup('.container')
 });
+// mobile menu icon
+function openNav(){
+	document.getElementById('myNav').style.width="100%";
+}
+function closeNav(){
+	document.getElementById('myNav').style.width="0%";
+}
