@@ -96,7 +96,7 @@ h4{
 /*++++++++++++header css+++++++++++++*/
 header{
 	background-color: #87509c;
-	background: linear-gradient(rgba(135,80,156,.6),rgba(135,80,156,6)),url(../img/header-banner.jpg);
+	background: linear-gradient(rgba(135,80,156,.6),rgba(135,80,156,6)),url(../img/top-image.jpg);
 	background-repeat: no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
@@ -234,6 +234,10 @@ header{
 	height: 12rem;
 	margin-top: 4.5rem;
 	margin-bottom: 3.5rem;
+}
+.service img{
+	height: 150px;
+	width: 100%;
 }
 /*=====team section======*/
 .team-section{
